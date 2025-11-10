@@ -8,3 +8,5 @@
 4.  Υποβάλετε ένα pull request.
 
 Είμαστε ανοιχτοί σε όλες τις συνεισφορές!
+
+This repository is licensed under the MIT License.
